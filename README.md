@@ -1,8 +1,6 @@
 <h2>print("Hello World!")</h2>
 
-My name is *Fahim*. My work is related to **ML**, **Servers**, **Linux** and **Arduino**.
-
-
+Hey, I am Captey. My work is related to **ML**, **Servers**, **Linux** and **Arduino**.
 
 ## About me:
 
