@@ -1,13 +1,17 @@
-<h2>print("Hello World!")</h2>
+<h2>print("Hello World! 🌍")</h2>
 
-Hey, I am Captey. My work is related to **ML**, **Servers**, **Linux** and **Arduino**.
+## About Me
 
-## About me:
+Hello! I'm Fahim, a student with a passion for Programming and MMA. I enjoy working with Machine Learning, Servers, Embedded Systems, and Robotics. 🚀
 
-- 🔭 I’m currently working on: **Python**, **LUA**, **Bash**, **C**, **Arduino**
-- 🌱 I’m currently learning: **C++** and **C#**
-- 👯 I’m looking to collaborate on : **Python**, **LUA**, **C**
-- 🤔 I’m looking for help with: **BoxOS**, **Project TKL**
-- 💬 Ask me about: **Machine learning**, **Python**, **LUA**, **C**, **Arduino**
+## Skills
 
+- Programming Languages: C, C++, Python3, Lua, Java, JavaScript 💻
+- Web Technologies: React, Django, Flask 🌐
+- Tools and Frameworks: Tensorflow, PyTorch, Keras, Computer Vision (OpenCV) 🛠️
 
+## Starred Projects
+
+Some of my work is listed in my starred projects on GitHub. ⭐
+
+Feel free to explore my repositories, and if you have any questions or collaboration ideas, don't hesitate to reach out! 🤝
